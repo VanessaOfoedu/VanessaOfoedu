@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VanessaOfoedu
-- 👀 I’m interested in programmin
-- 🌱 I’m currently learning CSS 
+- 👀 I’m interested in programming
 - 💞️ I’m looking to improve my programming skills ...
 <!---
 VanessaOfoedu/VanessaOfoedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
